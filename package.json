@@ -1,0 +1,24 @@
+{
+  "name": "1st-bootstrap-project",
+  "version": "1.0.0",
+  "description": "this is the git and node basic project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sania-akther/1st-bootstrap-project.git"
+  },
+  "author": "most sania akther sara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sania-akther/1st-bootstrap-project/issues"
+  },
+  "homepage": "https://github.com/sania-akther/1st-bootstrap-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
